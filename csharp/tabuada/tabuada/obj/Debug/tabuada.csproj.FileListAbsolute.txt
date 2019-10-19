@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\bin\Debug\tabuada.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\bin\Debug\tabuada.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\bin\Debug\tabuada.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.frmTabuada.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\tabuada\tabuada\obj\Debug\tabuada.pdb

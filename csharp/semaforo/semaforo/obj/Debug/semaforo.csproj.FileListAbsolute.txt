@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\bin\Debug\semaforo.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\bin\Debug\semaforo.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\bin\Debug\semaforo.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.frmExemplo02.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\semaforo\semaforo\obj\Debug\semaforo.pdb

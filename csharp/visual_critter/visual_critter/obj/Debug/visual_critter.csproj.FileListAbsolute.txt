@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\bin\Debug\visual_critter.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\bin\Debug\visual_critter.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\bin\Debug\visual_critter.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\visual_critter\visual_critter\obj\Debug\visual_critter.frmMyForm.resources

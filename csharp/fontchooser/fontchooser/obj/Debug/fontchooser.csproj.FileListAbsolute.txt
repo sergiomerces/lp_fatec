@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\bin\Debug\fontchooser.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.frmFontChooser.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.csproj.GenerateResource.Cache
+C:\Users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\bin\Debug\fontchooser.exe
+C:\Users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\bin\Debug\fontchooser.pdb
+C:\Users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.exe
+C:\Users\sergi\onedrive\documentos\visual studio 2013\Projects\fontchooser\fontchooser\obj\Debug\fontchooser.pdb

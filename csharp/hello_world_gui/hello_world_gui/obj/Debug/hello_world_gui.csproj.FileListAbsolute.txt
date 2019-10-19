@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\bin\Debug\hello_world_gui.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\bin\Debug\hello_world_gui.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\bin\Debug\hello_world_gui.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.Form1.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\hello_world_gui\hello_world_gui\obj\Debug\hello_world_gui.pdb

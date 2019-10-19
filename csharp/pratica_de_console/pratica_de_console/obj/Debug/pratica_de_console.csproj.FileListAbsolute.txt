@@ -1,0 +1,6 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\bin\Debug\pratica_de_console.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\bin\Debug\pratica_de_console.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\bin\Debug\pratica_de_console.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\obj\Debug\pratica_de_console.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\obj\Debug\pratica_de_console.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\pratica_de_console\pratica_de_console\obj\Debug\pratica_de_console.pdb

@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\bin\Debug\calculos_exemplo2.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\bin\Debug\calculos_exemplo2.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\bin\Debug\calculos_exemplo2.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.frmExemplo2.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo2\calculos_exemplo2\obj\Debug\calculos_exemplo2.pdb

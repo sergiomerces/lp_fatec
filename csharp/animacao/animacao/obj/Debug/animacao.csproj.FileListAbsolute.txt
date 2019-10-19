@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\bin\Debug\animacao.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\bin\Debug\animacao.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\bin\Debug\animacao.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.frmAnimacao.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.pdb

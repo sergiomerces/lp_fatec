@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\bin\Debug\calculos_somatoria.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\bin\Debug\calculos_somatoria.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\bin\Debug\calculos_somatoria.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.frmExemplo3.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_somatoria\calculos_somatoria\obj\Debug\calculos_somatoria.pdb

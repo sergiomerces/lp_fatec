@@ -1,0 +1,9 @@
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\bin\Debug\sizer.exe.config
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\bin\Debug\sizer.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\bin\Debug\sizer.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.csprojResolveAssemblyReference.cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.Properties.Resources.resources
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.csproj.GenerateResource.Cache
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.exe
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.pdb
+c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\sizer\sizer\obj\Debug\sizer.frmSizer.resources
