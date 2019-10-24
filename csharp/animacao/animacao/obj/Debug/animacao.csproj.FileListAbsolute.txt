@@ -7,3 +7,6 @@ c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.csproj.GenerateResource.Cache
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.exe
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\animacao\animacao\obj\Debug\animacao.pdb
+E:\lp_fatec\csharp\animacao\animacao\bin\Debug\animacao.exe.config
+E:\lp_fatec\csharp\animacao\animacao\obj\Debug\animacao.exe
+E:\lp_fatec\csharp\animacao\animacao\obj\Debug\animacao.pdb

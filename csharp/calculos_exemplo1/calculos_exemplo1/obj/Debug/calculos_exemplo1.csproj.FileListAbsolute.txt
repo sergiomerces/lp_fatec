@@ -7,3 +7,12 @@ c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo1
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.csproj.GenerateResource.Cache
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.exe
 c:\users\sergi\onedrive\documentos\visual studio 2013\Projects\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.pdb
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\bin\Debug\calculos_exemplo1.exe.config
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.exe
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.pdb
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\bin\Debug\calculos_exemplo1.exe
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\bin\Debug\calculos_exemplo1.pdb
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.csprojResolveAssemblyReference.cache
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.frmExemplo1.resources
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.Properties.Resources.resources
+E:\lp_fatec\csharp\calculos_exemplo1\calculos_exemplo1\obj\Debug\calculos_exemplo1.csproj.GenerateResource.Cache
